@@ -2,7 +2,7 @@
 layout: post
 title: "first blog"
 category: 
-tags: []
+tags: [test]
 ---
 {% include JB/setup %}
 
